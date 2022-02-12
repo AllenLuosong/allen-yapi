@@ -47,12 +47,7 @@ const HomeGuest = () => (
               <div className="detail">
                 高效、易用、功能强大的API管理平台<br />
                 <span className="desc">旨在为开发、产品、测试人员提供更优雅的接口管理服务</span><br />
-                <span className="desc">本演示站点非yapi官方站点，为crazy-yapi分支版本，二次开发了一些功能，欢迎大家体验</span><br />
-                <div className="desc"><a color="#57cf27" target="_blank" rel="noopener noreferrer"
-                                         href="https://github.com/xian-crazy/yapi/blob/master/README.md">
-                  crazy-yapi 功能说明
-                </a>
-                </div>
+                <span className="desc">本站点基于crazy-yapi分支二次开发了一些功能，欢迎大家体验</span><br />
               </div>
               <div className="btn-group">
                 <Link to="/login">
